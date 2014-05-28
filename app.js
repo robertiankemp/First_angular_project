@@ -19,6 +19,13 @@
 			description: ". . .",
 			canPurchase: true,
 			soldOut: false
+	  },
+	  {
+			name: 'Diamond',
+			price: 2000,
+			description: ". . .",
+			canPurchase: true,
+			soldOut: false
 	  }
  
 	];
